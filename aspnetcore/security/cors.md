@@ -36,7 +36,7 @@ These two URLs have the same origin:
 These URLs have different origins than the previous two URLs:
 
 * `https://example.net` &ndash; Different domain
-* `https://www.example.com/foo.html` &ndash; Different subdomain
+* `https://blog.example.com/` &ndash; Different subdomain
 * `http://example.com/foo.html` &ndash; Different scheme
 * `https://example.com:9000/foo.html` &ndash; Different port
 
